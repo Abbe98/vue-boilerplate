@@ -1,6 +1,6 @@
 # Vue Boilerplate
 
-Personal Vue-CLI boilerplate with my prfeared linting settings and favorite packages included.
+Personal Vue-CLI boilerplate with my preferred linting settings and favorite packages included.
 
 ## Packages
 
