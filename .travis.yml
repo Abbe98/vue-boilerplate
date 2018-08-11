@@ -3,7 +3,7 @@ node_js:
   - "8.4"
   - "stable"
 
-install: cd app && npm install
+install: npm install
 script: npm run build
 
 # github pages setup
