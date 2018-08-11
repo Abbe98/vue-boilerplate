@@ -3,8 +3,11 @@ node_js:
   - "8.4"
   - "stable"
 
+before_install: npm install -g greenkeeper-lockfile
 install: npm install
+before_script: greenkeeper-lockfile-update
 script: npm run build
+after_script: greenkeeper-lockfile-upload
 
 # github pages setup
 # deploy:
