@@ -6,7 +6,8 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "lint-css": "stylelint 'src/**/*.vue' --fix"
+    "lint-css": "stylelint 'src/**/*.vue' --fix",
+    "lint-all": "npm run lint && npm run lint-css"
   },
   "dependencies": {
     "axios": "^0.18.0",
