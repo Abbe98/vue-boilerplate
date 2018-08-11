@@ -1,5 +1,7 @@
 # Vue Boilerplate
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Abbe98/vue-boilerplate.svg)](https://greenkeeper.io/)
+
 Personal Vue-CLI boilerplate with my preferred linting settings and favorite packages included.
 
 ## Packages
