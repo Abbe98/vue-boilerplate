@@ -1,6 +1,5 @@
 language: node_js
-node_js: 
-  - "8.4"
+node_js:
   - "stable"
 
 # if you do not intend to use greenkeeper remove this
