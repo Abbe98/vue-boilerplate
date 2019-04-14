@@ -23,7 +23,7 @@
     "@vue/cli-service": "^3.0.0-rc.10",
     "@vue/eslint-config-standard": "^4.0.0",
     "eslint-plugin-import": "^2.16.0",
-    "stylelint": "^9.4.0",
+    "stylelint": "^10.0.0",
     "stylelint-config-standard": "^18.2.0",
     "vue-template-compiler": "^2.6.6"
   },
